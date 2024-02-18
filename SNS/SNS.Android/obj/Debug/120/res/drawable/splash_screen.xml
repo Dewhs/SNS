@@ -1,0 +1,1 @@
+<layer-list android:opacity="opaque" xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@color/splash_background" /><item android:width="268dp" android:height="170dp" android:gravity="center"><bitmap android:src="@drawable/loginpage_sns_icon" /></item></layer-list>

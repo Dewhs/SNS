@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SNS.Views.Configuration_AdressePage"
+              xmlns:behaviors="clr-namespace:SNS.Behaviors">
+
+    <ContentPage.Content>
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <!--                                                   Nav_bar                                                       -->
+            <Grid Grid.Row="0">
+                <Frame HorizontalOptions="Start" VerticalOptions="Center" CornerRadius="15" BackgroundColor="#ECECEC" HeightRequest="20" WidthRequest="20" Padding="10" Margin="10">
+                    <Image Source="arrow_back.png" Aspect="AspectFill" HorizontalOptions="Center"></Image>
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Command="{Binding Click_Back}"
+                            NumberOfTapsRequired="1"/>
+
+
+                    </Frame.GestureRecognizers>
+                </Frame>
+
+                <!--                                                   btn_Save                                                       -->
+
+                <Frame x:Name="BTN_Save" HorizontalOptions="End" VerticalOptions="Center" CornerRadius="15" HeightRequest="25" WidthRequest="50" Margin="10" Padding="10" BackgroundColor="#B2FFC8" Opacity="{Binding BTN_Save_Opacity}">
+                    <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontFamily="PoppinsMedium" TextColor="Black">Save</Label>
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Command="{Binding Btn_Save_Click}"
+                            NumberOfTapsRequired="1"/>
+
+
+                    </Frame.GestureRecognizers>
+                </Frame>
+            </Grid>
+
+            <!--                                                   Check_Resaux                                                       -->
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" FontSize="Large" FontFamily="PoppinsSemiBold" HorizontalOptions="Start" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="10">Réseau</Label>
+
+                <!-- <Image Grid.Column="1" Source="{Binding uri_Reseau}" WidthRequest="15" HeightRequest="15" HorizontalOptions="Start" VerticalOptions="Center"/> -->
+                <Frame x:Name="F_Bar_1" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="5" HeightRequest="20" Padding="0" BackgroundColor="#FF6666" Rotation="45" HasShadow="False"></Frame>
+                <Frame x:Name="F_Bar_2" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="5" HeightRequest="20" Padding="0" BackgroundColor="#FF6666" Rotation="-45" HasShadow="False"></Frame>
+                <!-- <Frame Grid.Column="3" HorizontalOptions="Start" VerticalOptions="Center" CornerRadius="999999" WidthRequest="5" HeightRequest="15" TranslationY="2.5" Padding="0" BackgroundColor="#B2FFC8" Rotation="-45"></Frame>
+                <Frame Grid.Column="3" HorizontalOptions="Start" VerticalOptions="Center" CornerRadius="999999" WidthRequest="5" HeightRequest="20" TranslationX="10" Padding="0" BackgroundColor="#B2FFC8" Rotation="45"></Frame> -->
+            </Grid>
+
+            <!--                                                   Check_API                                                       -->
+            <Grid Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" FontSize="Large" FontFamily="PoppinsSemiBold" HorizontalOptions="Start" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="10">API</Label>
+                    <!--<Image Grid.Column="1" Source="{Binding uri_API}" WidthRequest="15" HeightRequest="15" HorizontalOptions="Start" VerticalOptions="Center"/>-->
+                    <Frame x:Name="F_Bar_API_1" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="5" HeightRequest="20" Padding="0" BackgroundColor="#FF6666" Rotation="45" HasShadow="False"></Frame>
+                    <Frame x:Name="F_Bar_API_2" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="5" HeightRequest="20" Padding="0" BackgroundColor="#FF6666" Rotation="-45" HasShadow="False"></Frame>
+
+                </Grid
+                      >
+                <Grid Grid.Row="1" Margin="20,10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <!--                            TB_ADRESSE                       -->
+                    <Label Grid.Row="0" FontFamily="PoppinsRegular">Adresse</Label>
+                    <Frame Grid.Row="1" CornerRadius="20" HeightRequest="50" Padding="0" HasShadow="False" BackgroundColor="#ECECEC">
+                        <Entry x:Name="API_addr" Margin="10,-25" TextColor="Black" ClearButtonVisibility="WhileEditing" Text="{Binding TB_Adresse_Text}">
+                            <Entry.Behaviors>
+                                <behaviors:EventToCommandBehavior 
+                                    EventName="TextChanged"
+                                    Command="{Binding API_Adress_Changed}" />
+                            </Entry.Behaviors>
+                        </Entry>
+                    </Frame>
+                </Grid>
+            </Grid>
+
+            <!--                                                   Check_BDD                                                       -->
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" FontSize="Large" FontFamily="PoppinsSemiBold" HorizontalOptions="Start" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="10">Base De Données</Label>
+
+                <!-- <Image Grid.Column="1" Source="{Binding uri_Reseau}" WidthRequest="15" HeightRequest="15" HorizontalOptions="Start" VerticalOptions="Center"/> -->
+                <Frame x:Name="F_Bar_BDD_1" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Center"  WidthRequest="5" HeightRequest="20" Padding="0" BackgroundColor="#FF6666" Rotation="45" HasShadow="False"></Frame>
+                <Frame x:Name="F_Bar_BDD_2" Grid.Column="2" HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="5" HeightRequest="20" Padding="0" BackgroundColor="#FF6666" Rotation="-45" HasShadow="False"></Frame>
+                <!-- <Frame Grid.Column="3" HorizontalOptions="Start" VerticalOptions="Center" CornerRadius="999999" WidthRequest="5" HeightRequest="15" TranslationY="2.5" Padding="0" BackgroundColor="#B2FFC8" Rotation="-45"></Frame>
+                <Frame Grid.Column="3" HorizontalOptions="Start" VerticalOptions="Center" CornerRadius="999999" WidthRequest="5" HeightRequest="20" TranslationX="10" Padding="0" BackgroundColor="#B2FFC8" Rotation="45"></Frame> -->
+            </Grid>
+
+            <!--                                                   Description                                                       -->
+            <Label Grid.Row="4" Style="{StaticResource Description_function}">Testez la connexion avec les différents éléments du système (réseau, service web, base de données). Si cela échoue, vérifiez vos réglages.</Label>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

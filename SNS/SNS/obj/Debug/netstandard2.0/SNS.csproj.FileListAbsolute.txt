@@ -1,0 +1,205 @@
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\GOD\Desktop\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\GOD\Documents\BTS\SNS\New SNS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\GOD\Downloads\SNS (3)\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Configuration_AdressePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\SN2\Desktop\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\SN2\Downloads\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\SN2\Downloads\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\SN2\Downloads\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Configuration_AdressePage.xaml.g.cs
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\SN2\Downloads\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\SN2\Desktop\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Configuration_AdressePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.Proprietes.Resource.resources
+C:\Users\SN2\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.GenerateResource.cache
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.Proprietes.Resource.resources
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.GenerateResource.cache
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Configuration_AdressePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\SN2\Desktop\SNS_V_1.10\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\Roger\Desktop\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\Roger\Desktop\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\Roger\Desktop\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.Proprietes.Resource.resources
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.GenerateResource.cache
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Configuration_AdressePage.xaml.g.cs
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\Roger\Desktop\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.Proprietes.Resource.resources
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.GenerateResource.cache
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Configuration_AdressePage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\Roger\Documents\PersoData\Roger\Project\Archive\BTS\SNS\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.AssemblyReference.cache
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.Proprietes.Resource.resources
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.GenerateResource.cache
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Configuration_AdressePage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\Views\Reglage_PalierPage.xaml.g.cs
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfoInputs.cache
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.AssemblyInfo.cs
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\refint\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.pdb
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.deps.json
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\bin\Debug\netstandard2.0\SNS.pdb
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\ref\SNS.dll
+C:\Users\Roger\Documents\PersoData\Roger\Etude\BTS\SNS\SNS\SNS\obj\Debug\netstandard2.0\SNS.sourcelink.json

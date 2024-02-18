@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<layer-list  xmlns:android="http://schemas.android.com/apk/res/android"  android:opacity="opaque">
+
+  
+      <item android:drawable="@color/splash_background"/>
+      
+      <item 
+        
+        android:width="268dp"
+        android:height="170dp"
+        android:gravity="center">
+        
+       <bitmap
+        android:src="@drawable/LoginPage_SNS_icon"/>
+      </item>
+
+</layer-list >

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tt="clr-namespace:TouchTracking.Forms;assembly=TouchTracking.Forms"
+             x:Class="SNS.Views.HomePage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <!--   Header    -->
+                <RowDefinition Height="3*"/>
+                <!-- Sound_Level -->
+                <RowDefinition Height="2*"/>
+                <!--  Menu_Nav   -->
+            </Grid.RowDefinitions>
+
+            <!--                                                      Header                                                            -->
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60"/>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+
+                <Frame Grid.Column="0" CornerRadius="50" HorizontalOptions="End" VerticalOptions="Center" HeightRequest="50" WidthRequest="50" Padding="0">
+                    <!-- Container Profile Picture -->
+                    <Image x:Name="Profile_img" Source="{Binding profile_img}" Aspect="AspectFill"/>
+                    <!--     Profile Picture       -->
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer
+                                Command="{Binding Click_nav_profile}"
+                                NumberOfTapsRequired="1">
+                        </TapGestureRecognizer>
+                    </Frame.GestureRecognizers>
+                </Frame>
+                <Label Grid.Column="1" HorizontalTextAlignment="Start" VerticalTextAlignment="Center" FontFamily="PoppinsMedium" TextColor="Black" FontSize="Subtitle" Margin="10,0,0,0" Text="{Binding Name}"/>
+                <!--     UserName       -->
+            </Grid>
+
+
+
+
+            <!--                                                      Sound_Level                                                            -->
+            <Frame Grid.Row="1" BackgroundColor="#363636" CornerRadius="50" Margin="10,0,10,0" Padding="0,40,0,0" x:Name="Frame_Principal">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid x:Name="Frame_son_Container" Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Frame x:Name="Frame_son_1" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_2" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_3" Grid.Column="3" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_4" Grid.Column="4" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_5" Grid.Column="5" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_6" Grid.Column="6" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_7" Grid.Column="7" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_8" Grid.Column="8" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_9" Grid.Column="9" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+                        <Frame x:Name="Frame_son_10" Grid.Column="10" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="99999" Padding="1" HeightRequest="10" WidthRequest="10" BackgroundColor="{Binding F_Sound_BG_Color}"></Frame>
+
+                    </Grid>
+
+                    <Grid x:Name="Label_Container" Grid.Row="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="2*"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label x:Name="L_db" Grid.Column="0" HorizontalTextAlignment="End" VerticalOptions="Center" FontSize="Large" TextColor="White" Text="{Binding Sound_Value}" FontFamily="PoppinsBold"/>
+                            <Label Grid.Column="1" HorizontalTextAlignment="Start" VerticalOptions="Center" FontSize="Medium" TextColor="White" Text="dB" FontFamily="PoppinsSemiBold" Margin="0,5,0,0"/>
+                        </Grid>
+                        <Label x:Name="L_Sound_Description" Grid.Row="1" HorizontalTextAlignment="Center" VerticalOptions="Start" FontSize="Subtitle" TextColor="{Binding Sound_Value_Description_Color}" Text="{Binding Sound_Value_Description}" FontFamily="PoppinsSemiBold"/>
+                    </Grid>
+                </Grid>
+            </Frame>
+
+
+            <!--                                                         Menu_Nav                                                               -->
+            <Grid Grid.Row="2" Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                    
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" VerticalTextAlignment="End" FontFamily="PoppinsSemiBold" TextColor="Black" Margin="0,0,0,10">Tools</Label>
+
+
+                <ScrollView Grid.Row="1" Orientation="Horizontal" HorizontalScrollBarVisibility="Always">                    
+                    <StackLayout Orientation="Horizontal">
+                        <Grid x:Name="Grid_Menu" HorizontalOptions="Start" WidthRequest="400">
+
+                            <!-- <Grid.Effects>
+                                <tt:TouchEffect Capture="True" TouchAction="OnTouch_Grid_Menu"/>                        
+                            </Grid.Effects> -->
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="auto"/>
+                            </Grid.ColumnDefinitions>
+                            <Frame Grid.Column="0" x:Name="Frame_nav_historique" HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="115" HeightRequest="115" Padding="0" CornerRadius="30" BackgroundColor="#FBE5FD" HasShadow="False" Margin="2,0">
+                                <Image Source="stats_icon.png" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="40"/>
+                            </Frame>
+
+                            <Frame x:Name="Frame_nav_reglage" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="{Binding Widht_Nav_Reglage}" Padding="0" HeightRequest="115" CornerRadius="30" BackgroundColor="#BDFCDD" HasShadow="False" Margin="{Binding Margin_Nav_Reglage}">
+                                <Image Source="reglage_icon.png" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="40"/>
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer
+                                    Command="{Binding Click_nav_reglage}"
+                                    NumberOfTapsRequired="1">
+                                    </TapGestureRecognizer>
+                                </Frame.GestureRecognizers>
+                            </Frame>
+                            <Frame x:Name="Frame_nav_settings" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="115" HeightRequest="115" Padding="0" CornerRadius="30" BackgroundColor="#E5E5E5" HasShadow="False" Margin="2,0">
+                                <Image Source="settings_icon.png" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="40"/>
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer
+                                    Command="{Binding Click_Configuration_Adresse}"
+                                    NumberOfTapsRequired="1">
+                                    </TapGestureRecognizer>
+                                </Frame.GestureRecognizers>
+                            </Frame>
+                        </Grid>
+                    </StackLayout>
+                </ScrollView>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

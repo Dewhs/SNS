@@ -1,0 +1,88 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="font\Poppins\PoppinsBlack.ttf" />
+    <None Remove="font\Poppins\PoppinsBlackItalic.ttf" />
+    <None Remove="font\Poppins\PoppinsBold.ttf" />
+    <None Remove="font\Poppins\PoppinsBoldItalic.ttf" />
+    <None Remove="font\Poppins\PoppinsExtraBold.ttf" />
+    <None Remove="font\Poppins\PoppinsExtraBoldItalic.ttf" />
+    <None Remove="font\Poppins\PoppinsExtraLight.ttf" />
+    <None Remove="font\Poppins\PoppinsExtraLightItalic.ttf" />
+    <None Remove="font\Poppins\PoppinsItalic.ttf" />
+    <None Remove="font\Poppins\PoppinsLight.ttf" />
+    <None Remove="font\Poppins\PoppinsLightItalic.ttf" />
+    <None Remove="font\Poppins\PoppinsMedium.ttf" />
+    <None Remove="font\Poppins\PoppinsMediumItalic.ttf" />
+    <None Remove="font\Poppins\PoppinsRegular.ttf" />
+    <None Remove="font\Poppins\PoppinsSemiBold.ttf" />
+    <None Remove="font\Poppins\PoppinsSemiBoldItalic.ttf" />
+    <None Remove="font\Poppins\PoppinsThin.ttf" />
+    <None Remove="font\Poppins\PoppinsThinItalic.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="font\Poppins\PoppinsBlack.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsBlackItalic.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsBold.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsBoldItalic.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsExtraBold.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsExtraBoldItalic.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsExtraLight.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsExtraLightItalic.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsItalic.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsLight.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsLightItalic.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsMedium.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsMediumItalic.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsRegular.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsSemiBold.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsSemiBoldItalic.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsThin.ttf" />
+    <EmbeddedResource Include="font\Poppins\PoppinsThinItalic.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Com.Airbnb.Xamarin.Forms.Lottie" Version="4.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="TouchTracking.Forms" Version="1.1.0" />
+    <PackageReference Include="Xamarin.CommunityToolkit" Version="2.0.2" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2401" />  
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Proprietes\Resource.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Proprietes\Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Configuration_AdressePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\HomePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\LoginPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ProfilePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Reglage_PalierPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

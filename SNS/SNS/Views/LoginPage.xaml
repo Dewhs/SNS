@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage NavigationPage.HasNavigationBar="False" 
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SNS.Views.LoginPage"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             BackgroundColor="White">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!--                             App_Icon                          -->
+            <Grid Grid.Row="0">
+                <Frame HorizontalOptions="End" VerticalOptions="Start" WidthRequest="25" HeightRequest="25" Margin="20" Padding="0" HasShadow="False">
+                    <Image Source="settings_icon_login.png" Aspect="AspectFill"/>
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Command="{Binding Configuration_adresse_page_click}"
+                            NumberOfTapsRequired="1"/>
+                    </Frame.GestureRecognizers>
+                </Frame>
+                <Image Source="LoginPage_SNS_icon.png" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="125"></Image>
+            </Grid>
+
+            <!--                      Entry (Identifiant + Password)                      -->
+            <Grid Grid.Row="1" HorizontalOptions="Center" WidthRequest="250">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!--                 Identifiant               -->
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Label Grid.Row="0" FontFamily="PoppinsSemiBold" FontSize="Subtitle" Text="Identifiant"/>
+                    <Frame Grid.Row="1" BackgroundColor="#ECECEC" VerticalOptions="Start" Padding="0" HeightRequest="60" CornerRadius="25" HasShadow="False">
+                        <Entry x:Name="Entry_identifiant" BackgroundColor="Transparent" Margin="10,-20,10,-20" TextColor="Black" ClearButtonVisibility="WhileEditing" Text="{Binding Identifiant}"/>
+                    </Frame>
+                </Grid>
+
+
+                <!--                 Password               -->
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Label Grid.Row="0" FontFamily="PoppinsSemiBold" FontSize="Subtitle" Text="Password"/>
+                    <Frame Grid.Row="1" BackgroundColor="#ECECEC" VerticalOptions="Start" Padding="0" HeightRequest="60" CornerRadius="25" HasShadow="False">
+                        <Entry x:Name="Entry_password" BackgroundColor="Transparent" Margin="10,-20,10,-20" TextColor="Black" ClearButtonVisibility="WhileEditing" IsPassword="True" Text="{Binding Password}"/>
+                    </Frame>
+                </Grid>
+            </Grid>
+
+
+
+            <!--                           Grid_BTN_Connect                                    -->
+            <Grid Grid.Row="2">
+                <Label HorizontalTextAlignment="End" VerticalTextAlignment="End" Margin="10" FontFamily="PoppinsSemiBold" Text="{Binding App_Version}"></Label>
+
+
+                <!--<forms:AnimationView
+                    
+                    HeightRequest="150" 
+                    WidthRequest="150"
+                    x:Name="Loading"
+                    Animation="loading.json"                    
+                    RepeatMode="Restart" 
+                    RepeatCount="999999999"
+                    AutoPlay="True"
+                    VerticalOptions="Center" 
+                    HorizontalOptions="Center"/>-->
+
+                <Label TextColor="{StaticResource App_Red}" Text="{Binding Invalid_id_pass}" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" FontFamily="PoppinsMedium" Margin="0,50,0,0"/>
+                <Frame x:Name="BTN_Connect" BackgroundColor="{Binding BG_BTN_Connect}" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="25" WidthRequest="100" HasShadow="False" Padding="20">
+                    <Label FontFamily="PoppinsSemiBold" Text="Connect" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontSize="Subtitle"/>
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Tapped="BTN_Connect_Click"
+                            Command="{Binding BTN_Connect_click}"                            
+                            NumberOfTapsRequired="1">
+                        </TapGestureRecognizer>
+                    </Frame.GestureRecognizers>
+                </Frame>
+
+            </Grid>
+
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>
